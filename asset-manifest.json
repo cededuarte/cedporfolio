@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/cedportfolio/static/css/main.3c03590c.chunk.css",
+    "main.js": "/cedportfolio/static/js/main.ecd96393.chunk.js",
+    "main.js.map": "/cedportfolio/static/js/main.ecd96393.chunk.js.map",
+    "runtime-main.js": "/cedportfolio/static/js/runtime-main.8bc5ea21.js",
+    "runtime-main.js.map": "/cedportfolio/static/js/runtime-main.8bc5ea21.js.map",
+    "static/js/2.c840000c.chunk.js": "/cedportfolio/static/js/2.c840000c.chunk.js",
+    "static/js/2.c840000c.chunk.js.map": "/cedportfolio/static/js/2.c840000c.chunk.js.map",
+    "index.html": "/cedportfolio/index.html",
+    "precache-manifest.6f42b6bd8a3960de094c38c293607b2e.js": "/cedportfolio/precache-manifest.6f42b6bd8a3960de094c38c293607b2e.js",
+    "service-worker.js": "/cedportfolio/service-worker.js",
+    "static/css/main.3c03590c.chunk.css.map": "/cedportfolio/static/css/main.3c03590c.chunk.css.map",
+    "static/js/2.c840000c.chunk.js.LICENSE.txt": "/cedportfolio/static/js/2.c840000c.chunk.js.LICENSE.txt",
+    "static/media/100.jpg": "/cedportfolio/static/media/100.53c38366.jpg",
+    "static/media/100.png": "/cedportfolio/static/media/100.8f1df092.png",
+    "static/media/index.css": "/cedportfolio/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/Kambi.png": "/cedportfolio/static/media/Kambi.eae2e51c.png",
+    "static/media/buld.jpg": "/cedportfolio/static/media/buld.a1051a22.jpg",
+    "static/media/codeInLogo.png": "/cedportfolio/static/media/codeInLogo.b3685be8.png",
+    "static/media/csc_logo.png": "/cedportfolio/static/media/csc_logo.73c6ea0c.png",
+    "static/media/deeplearning_ai_logo.png": "/cedportfolio/static/media/deeplearning_ai_logo.7a9b2eb0.png",
+    "static/media/all.css": "/cedportfolio/static/media/fa-solid-900.8e4a6dcc.eot",
+    "static/media/googleAssistant.jpg": "/cedportfolio/static/media/googleAssistant.0c8a4c11.jpg",
+    "static/media/imc_logo.png": "/cedportfolio/static/media/imc_logo.11e007de.png",
+    "static/media/ino.png": "/cedportfolio/static/media/ino.ccf88661.png",
+    "static/media/intel_logo.jpg": "/cedportfolio/static/media/intel_logo.29152cf7.jpg",
+    "static/media/li_logo.png": "/cedportfolio/static/media/li_logo.1b1bfa46.png",
+    "static/media/quicko.jpg": "/cedportfolio/static/media/quicko.e56f163e.jpg",
+    "static/media/sal.png": "/cedportfolio/static/media/sal.62ac09c3.png",
+    "static/media/stanford_logo.png": "/cedportfolio/static/media/stanford_logo.da0e7c80.png",
+    "static/media/vjt.png": "/cedportfolio/static/media/vjt.c54faf17.png",
+    "static/media/wrighter.jpg": "/cedportfolio/static/media/wrighter.02fdae43.jpg",
+    "static/media/zuitt_logo.png": "/cedportfolio/static/media/zuitt_logo.1364b235.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8bc5ea21.js",
+    "static/js/2.c840000c.chunk.js",
+    "static/css/main.3c03590c.chunk.css",
+    "static/js/main.ecd96393.chunk.js"
+  ]
+}
